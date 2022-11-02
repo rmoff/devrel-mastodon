@@ -17,6 +17,7 @@ Someone missing? Submit a PR!
 | `@gunnarmorling@mastodon.online` | https://mastodon.online/@gunnarmorling |
 | `@mesirii@chaos.social` | https://chaos.social/@mesirii |
 | `@remotesynth@mastodon.xyz` | https://mastodon.xyz/@remotesynth |
+| `@shanacodes@mastodon.social` | [https://mastodon.social/@shanacodes] |
 
 ## Mastodon tips and tricks
 
