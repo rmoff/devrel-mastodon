@@ -23,6 +23,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@starbuxman@mastodon.online](https://mastodon.online/@starbuxman) |
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
+| [@amaragraham@mastodon.online](https://mastodon.online/@amaragraham) |
 
 
 ## Mastodon tips and tricks
