@@ -5,6 +5,7 @@ Someone missing? Submit a PR!
 | Handle | Profile page |
 |-|-|
 | `@andypiper@mastodon.social` | https://mastodon.social/@andypiper |
+| `@christianh814@hachyderm.io` | https://hachyderm.io/@christianh814 |
 | `@ftisiot@mastodon.social`  | https://mastodon.social/@ftisiot |
 | `@gunnarmorling@mastodon.online` | https://mastodon.online/@gunnarmorling |
 | `@holly_cummins@mastodon.social` | https://mastodon.social/@holly_cummins |
