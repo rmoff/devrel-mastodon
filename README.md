@@ -19,7 +19,9 @@ Someone missing? Submit a PR!
 | `@rmoff@fosstodon.org`  | https://fosstodon.org/@rmoff |
 | `@shanacodes@mastodon.social` | https://mastodon.social/@shanacodes |
 | `@starbuxman@mastodon.online` | https://mastodon.online/@starbuxman |
+| `@technovangelist@fosstodon.org` | https://fosstodon.org/@technovangelist |
 | `@xeraa@mastodon.social` | https://mastodon.social/@xeraa |
+
 
 ## Mastodon tips and tricks
 
