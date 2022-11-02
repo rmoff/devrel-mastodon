@@ -1,4 +1,4 @@
-# devrel-mastodon
+# DevRel folk who are on Mastodon
 
 | Handle | Profile page |
 |-|-|
@@ -15,3 +15,8 @@
 | `@gunnarmorling@mastodon.online` | https://mastodon.online/@gunnarmorling |
 | `@mesirii@chaos.social` | https://chaos.social/@mesirii |
 | `@remotesynth@mastodon.xyz` | https://mastodon.xyz/@remotesynth |
+
+## Mastodon tips and tricks
+
+* https://fedi.tips/
+* [List of servers](https://joinmastodon.org/servers)
