@@ -18,6 +18,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@metadaddy@fosstodon.org](https://fosstodon.org/@metadaddy) |
 | [@mesirii@chaos.social](https://chaos.social/@mesirii) |
 | [@mkheck@mastodon.cloud](https://mastodon.cloud/@mkheck) |
+| [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
 | [@remotesynth@mastodon.xyz](https://mastodon.xyz/@remotesynth) |
 | [@rmoff@fosstodon.org]( https://fosstodon.org/@rmoff) |
 | [@shanacodes@mastodon.social](https://mastodon.social/@shanacodes) |
