@@ -15,6 +15,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@jerdog@floss.social]( https://floss.social/@jerdog) |
 | [@linux_mclinuxface@fosstodon.org](https://fosstodon.org/@linux_mclinuxface) |
 | [@maritvandijk@mastodon.social](https://mastodon.social/@maritvandijk) |
+| [@metadaddy@fosstodon.org](https://fosstodon.org/@metadaddy) |
 | [@mesirii@chaos.social](https://chaos.social/@mesirii) |
 | [@mkheck@mastodon.cloud](https://mastodon.cloud/@mkheck) |
 | [@remotesynth@mastodon.xyz](https://mastodon.xyz/@remotesynth) |
