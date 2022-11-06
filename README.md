@@ -14,6 +14,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@ftisiot@mastodon.social]( https://mastodon.social/@ftisiot) |
 | [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
 | [@holly_cummins@mastodon.social](https://mastodon.social/@holly_cummins) |
+| [@jasonstcyr@mstdn.ca](https://mstdn.ca/@jasonstcyr) |
 | [@jerdog@floss.social]( https://floss.social/@jerdog) |
 | [@jjasghar@mastodon.social](https://mastodon.social/@jjasghar) |
 | [@linux_mclinuxface@fosstodon.org](https://fosstodon.org/@linux_mclinuxface) |
