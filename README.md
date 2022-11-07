@@ -10,6 +10,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@amaragraham@mastodon.online](https://mastodon.online/@amaragraham) |
 | [@andypiper@mastodon.social](https://mastodon.social/@andypiper) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
+| [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
 | [@dtraub@mastodon.online](https://mastodon.online/@dtraub) |
 | [@ftisiot@mastodon.social]( https://mastodon.social/@ftisiot) |
 | [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
@@ -31,7 +32,6 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
-| [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
 
 ## Mastodon tips and tricks
 
