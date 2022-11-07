@@ -26,7 +26,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@nickali@mastodon.cloud](https://mastodon.cloud/@nickali) |
 | [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
 | [@remotesynth@mastodon.xyz](https://mastodon.xyz/@remotesynth) |
-| [@rmoff@fosstodon.org]( https://fosstodon.org/@rmoff) |
+| [@rmoff@data-folks.masto.host](https://data-folks.masto.host/@rmoff) |
 | [@shanacodes@mastodon.social](https://mastodon.social/@shanacodes) |
 | [@starbuxman@mastodon.online](https://mastodon.online/@starbuxman) |
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
