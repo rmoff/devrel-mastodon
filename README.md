@@ -33,6 +33,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
+| [@hkdulay@data-folks.masto.host](https://data-folks.masto.host/@hkdulay) |
 
 ## Mastodon tips and tricks
 
