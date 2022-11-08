@@ -11,20 +11,23 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@andypiper@mastodon.social](https://mastodon.social/@andypiper) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
 | [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
+| [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro) |
 | [@dtraub@mastodon.online](https://mastodon.online/@dtraub) |
 | [@ftisiot@mastodon.social]( https://mastodon.social/@ftisiot) |
 | [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
+| [@hkdulay@data-folks.masto.host](https://data-folks.masto.host/@hkdulay) |
 | [@holly_cummins@mastodon.social](https://mastodon.social/@holly_cummins) |
 | [@iandouglas@mastodon.cloud](https://mastodon.cloud/@iandouglas) |
 | [@jasonstcyr@mstdn.ca](https://mstdn.ca/@jasonstcyr) |
 | [@jerdog@floss.social]( https://floss.social/@jerdog) |
 | [@jjasghar@mastodon.social](https://mastodon.social/@jjasghar) |
+| [@kevindubois@mastodon.social](https://mastodon.social/@kevindubois) |
 | [@linux_mclinuxface@fosstodon.org](https://fosstodon.org/@linux_mclinuxface) |
 | [@maritvandijk@mastodon.social](https://mastodon.social/@maritvandijk) |
 | [@mesirii@chaos.social](https://chaos.social/@mesirii) |
 | [@metadaddy@fosstodon.org](https://fosstodon.org/@metadaddy) |
 | [@mkheck@mastodon.cloud](https://mastodon.cloud/@mkheck) |
-  [@monimiller@data-folks.masto.host](https://data-folks.masto.host/@monimiller)
+| [@monimiller@data-folks.masto.host](https://data-folks.masto.host/@monimiller) |
 | [@nickali@mastodon.cloud](https://mastodon.cloud/@nickali) |
 | [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
 | [@remotesynth@mastodon.xyz](https://mastodon.xyz/@remotesynth) |
@@ -34,8 +37,6 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
-| [@hkdulay@data-folks.masto.host](https://data-folks.masto.host/@hkdulay) |
-| [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro) |
 
 ## Mastodon tips and tricks
 
