@@ -35,6 +35,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@shanacodes@mastodon.social](https://mastodon.social/@shanacodes) |
 | [@starbuxman@mastodon.online](https://mastodon.online/@starbuxman) |
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
+| [@t_mammarella@mastodon.social](https://mastodon.social/@t_mammarella) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
 
