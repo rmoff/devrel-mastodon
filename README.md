@@ -23,6 +23,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@mesirii@chaos.social](https://chaos.social/@mesirii) |
 | [@metadaddy@fosstodon.org](https://fosstodon.org/@metadaddy) |
 | [@mkheck@mastodon.cloud](https://mastodon.cloud/@mkheck) |
+  [@monimiller@data-folks.masto.host](https://data-folks.masto.host/@monimiller)
 | [@nickali@mastodon.cloud](https://mastodon.cloud/@nickali) |
 | [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
 | [@remotesynth@mastodon.xyz](https://mastodon.xyz/@remotesynth) |
