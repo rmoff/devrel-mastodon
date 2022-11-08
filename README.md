@@ -9,6 +9,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@adipolak@mastodon.online](https://mastodon.online/@adipolak) |
 | [@amaragraham@mastodon.online](https://mastodon.online/@amaragraham) |
 | [@andypiper@mastodon.social](https://mastodon.social/@andypiper) |
+| [@Cerchie@data-folks.masto.host](https://data-folks.masto.host/web/@Cerchie) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
 | [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
 | [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro) |
