@@ -27,6 +27,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@kevindubois@mastodon.social](https://mastodon.social/@kevindubois) |
 | [@krisajenkins@mastodon.social](https://mastodon.social/@krisajenkins) |
 | [@linux_mclinuxface@fosstodon.org](https://fosstodon.org/@linux_mclinuxface) |
+| [@manomarks@queer.party](https://queer.party/web/@manomarks) |
 | [@maritvandijk@mastodon.social](https://mastodon.social/@maritvandijk) |
 | [@mesirii@chaos.social](https://chaos.social/@mesirii) |
 | [@metadaddy@fosstodon.org](https://fosstodon.org/@metadaddy) |
@@ -39,11 +40,10 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@rmoff@data-folks.masto.host](https://data-folks.masto.host/@rmoff) |
 | [@shanacodes@mastodon.social](https://mastodon.social/@shanacodes) |
 | [@starbuxman@mastodon.online](https://mastodon.online/@starbuxman) |
-| [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@t_mammarella@mastodon.social](https://mastodon.social/@t_mammarella) |
+| [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
-| [@manomarks@queer.party](https://queer.party/web/@manomarks) |
 
 ## Mastodon tips and tricks
 
