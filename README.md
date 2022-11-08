@@ -6,36 +6,37 @@ You can click on an individual handle to view the profile page, or copy the whol
 
 | Handle |
 |-|
-| [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
-| [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
-| [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
-| [@starbuxman@mastodon.online](https://mastodon.online/@starbuxman) |
-| [@shanacodes@mastodon.social](https://mastodon.social/@shanacodes) |
-| [@rmoff@data-folks.masto.host](https://data-folks.masto.host/@rmoff) |
-| [@remotesynth@mastodon.xyz](https://mastodon.xyz/@remotesynth) |
-| [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
-| [@nickali@mastodon.cloud](https://mastodon.cloud/@nickali) |
-| [@monimiller@data-folks.masto.host](https://data-folks.masto.host/@monimiller) |
-| [@mkheck@mastodon.cloud](https://mastodon.cloud/@mkheck) |
-| [@metadaddy@fosstodon.org](https://fosstodon.org/@metadaddy) |
-| [@mesirii@chaos.social](https://chaos.social/@mesirii) |
-| [@maritvandijk@mastodon.social](https://mastodon.social/@maritvandijk) |
-| [@linux_mclinuxface@fosstodon.org](https://fosstodon.org/@linux_mclinuxface) |
-| [@kevindubois@mastodon.social](https://mastodon.social/@kevindubois) |
-| [@jjasghar@mastodon.social](https://mastodon.social/@jjasghar) |
-| [@jerdog@floss.social]( https://floss.social/@jerdog) |
-| [@jasonstcyr@mstdn.ca](https://mstdn.ca/@jasonstcyr) |
-| [@iandouglas@mastodon.cloud](https://mastodon.cloud/@iandouglas) |
-| [@holly_cummins@mastodon.social](https://mastodon.social/@holly_cummins) |
-| [@hkdulay@data-folks.masto.host](https://data-folks.masto.host/@hkdulay) |
-| [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
-| [@ftisiot@mastodon.social]( https://mastodon.social/@ftisiot) |
-| [@dtraub@mastodon.online](https://mastodon.online/@dtraub) |
-| [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
-| [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
-| [@andypiper@mastodon.social](https://mastodon.social/@andypiper) |
-| [@amaragraham@mastodon.online](https://mastodon.online/@amaragraham) |
 | [@adipolak@mastodon.online](https://mastodon.online/@adipolak) |
+| [@amaragraham@mastodon.online](https://mastodon.online/@amaragraham) |
+| [@andypiper@mastodon.social](https://mastodon.social/@andypiper) |
+| [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
+| [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
+| [@dtraub@mastodon.online](https://mastodon.online/@dtraub) |
+| [@ftisiot@mastodon.social]( https://mastodon.social/@ftisiot) |
+| [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
+| [@hkdulay@data-folks.masto.host](https://data-folks.masto.host/@hkdulay) |
+| [@holly_cummins@mastodon.social](https://mastodon.social/@holly_cummins) |
+| [@iandouglas@mastodon.cloud](https://mastodon.cloud/@iandouglas) |
+| [@jasonstcyr@mstdn.ca](https://mstdn.ca/@jasonstcyr) |
+| [@jerdog@floss.social]( https://floss.social/@jerdog) |
+| [@jjasghar@mastodon.social](https://mastodon.social/@jjasghar) |
+| [@kevindubois@mastodon.social](https://mastodon.social/@kevindubois) |
+| [@linux_mclinuxface@fosstodon.org](https://fosstodon.org/@linux_mclinuxface) |
+| [@maritvandijk@mastodon.social](https://mastodon.social/@maritvandijk) |
+| [@mesirii@chaos.social](https://chaos.social/@mesirii) |
+| [@metadaddy@fosstodon.org](https://fosstodon.org/@metadaddy) |
+| [@mkheck@mastodon.cloud](https://mastodon.cloud/@mkheck) |
+| [@monimiller@data-folks.masto.host](https://data-folks.masto.host/@monimiller) |
+| [@nickali@mastodon.cloud](https://mastodon.cloud/@nickali) |
+| [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
+| [@remotesynth@mastodon.xyz](https://mastodon.xyz/@remotesynth) |
+| [@rmoff@data-folks.masto.host](https://data-folks.masto.host/@rmoff) |
+| [@shanacodes@mastodon.social](https://mastodon.social/@shanacodes) |
+| [@starbuxman@mastodon.online](https://mastodon.online/@starbuxman) |
+| [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
+| [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
+| [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
+
 
 ## Mastodon tips and tricks
 
