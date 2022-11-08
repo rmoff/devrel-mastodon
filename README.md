@@ -12,6 +12,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
 | [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
 | [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro) |
+| [@don@goodman-wilson.com](https://goodman-wilson.com/@don) |
 | [@dtraub@mastodon.online](https://mastodon.online/@dtraub) |
 | [@ftisiot@mastodon.social]( https://mastodon.social/@ftisiot) |
 | [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
