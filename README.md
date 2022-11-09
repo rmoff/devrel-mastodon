@@ -19,6 +19,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
 | [@hkdulay@data-folks.masto.host](https://data-folks.masto.host/@hkdulay) |
 | [@holly_cummins@mastodon.social](https://mastodon.social/@holly_cummins) |
+| [@hummusonrails@fosstodon.org](https://fosstodon.org/web/@hummusonrails) |
 | [@iandouglas736@hachyderm.io](https://hachyderm.io/@iandouglas736) |
 | [@jasonstcyr@mstdn.ca](https://mstdn.ca/@jasonstcyr) |
 | [@jerdog@floss.social]( https://floss.social/@jerdog) |
