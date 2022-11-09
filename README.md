@@ -28,6 +28,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@kevindubois@mastodon.social](https://mastodon.social/@kevindubois) |
 | [@krisajenkins@mastodon.social](https://mastodon.social/@krisajenkins) |
 | [@linux_mclinuxface@fosstodon.org](https://fosstodon.org/@linux_mclinuxface) |
+| [@lornajane@indieweb.social](https://indieweb.social/@lornajane) |
 | [@manomarks@queer.party](https://queer.party/web/@manomarks) |
 | [@maritvandijk@mastodon.social](https://mastodon.social/@maritvandijk) |
 | [@mesirii@chaos.social](https://chaos.social/@mesirii) |
