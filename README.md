@@ -43,6 +43,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@starbuxman@mastodon.online](https://mastodon.online/@starbuxman) |
 | [@t_mammarella@mastodon.social](https://mastodon.social/@t_mammarella) |
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
+| [@thegrumpyenby@queer.party](https://queer.party/@thegrumpyenby) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
 
