@@ -10,6 +10,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@amaragraham@mastodon.online](https://mastodon.online/@amaragraham) |
 | [@andypiper@mastodon.social](https://mastodon.social/@andypiper) |
 | [@Cerchie@data-folks.masto.host](https://data-folks.masto.host/web/@Cerchie) |
+| [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
 | [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
 | [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro) |
@@ -31,6 +32,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@lornajane@indieweb.social](https://indieweb.social/@lornajane) |
 | [@manomarks@queer.party](https://queer.party/web/@manomarks) |
 | [@maritvandijk@mastodon.social](https://mastodon.social/@maritvandijk) |
+| [@mattstratton@hachyderm.io](https://hachyderm.io/@mattstratton) |
 | [@mesirii@chaos.social](https://chaos.social/@mesirii) |
 | [@metadaddy@fosstodon.org](https://fosstodon.org/@metadaddy) |
 | [@mkheck@mastodon.cloud](https://mastodon.cloud/@mkheck) |
@@ -39,6 +41,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@nimbinatus@hachyderm.io](https://hachyderm.io/@nimbinatus) |
 | [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
 | [@remotesynth@mastodon.xyz](https://mastodon.xyz/@remotesynth) |
+| [@RichiH@chaos.social](https://chaos.social/@RichiH) |
 | [@rmoff@data-folks.masto.host](https://data-folks.masto.host/@rmoff) |
 | [@shanacodes@mastodon.social](https://mastodon.social/@shanacodes) |
 | [@starbuxman@mastodon.online](https://mastodon.online/@starbuxman) |
