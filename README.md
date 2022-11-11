@@ -17,6 +17,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@don@goodman-wilson.com](https://goodman-wilson.com/@don) |
 | [@dtraub@mastodon.online](https://mastodon.online/@dtraub) |
 | [@ftisiot@mastodon.social]( https://mastodon.social/@ftisiot) |
+| [@gregholmes@fosstodon.org](https://fosstodon.org/web/@gregholmes) |
 | [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
 | [@hamatti@mastodon.world](https://mastodon.world/web/@hamatti) |
 | [@hkdulay@data-folks.masto.host](https://data-folks.masto.host/@hkdulay) |
