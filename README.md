@@ -13,6 +13,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
 | [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
+| [@devwithzachary@androiddev.social](https://androiddev.social/@devwithzachary) |
 | [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro) |
 | [@don@goodman-wilson.com](https://goodman-wilson.com/@don) |
 | [@dtraub@mastodon.online](https://mastodon.online/@dtraub) |
@@ -21,6 +22,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
 | [@hamatti@mastodon.world](https://mastodon.world/web/@hamatti) |
 | [@hkdulay@data-folks.masto.host](https://data-folks.masto.host/@hkdulay) |
+| [@hola_soy_milk@mastodon.online](https://mastodon.online/@hola_soy_milk) |
 | [@holly_cummins@mastodon.social](https://mastodon.social/@holly_cummins) |
 | [@hummusonrails@fosstodon.org](https://fosstodon.org/web/@hummusonrails) |
 | [@iandouglas736@hachyderm.io](https://hachyderm.io/@iandouglas736) |
@@ -29,6 +31,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@jjasghar@mastodon.social](https://mastodon.social/@jjasghar) |
 | [@joesepi@fosstodon.org](https://fosstodon.org/@joesepi) |
 | [@jpoehnelt@mastodon.thbps.com](https://mastodon.thbps.com/@jpoehnelt) |
+| [@julianduque@fosstodon.org](https://fosstodon.org/@julianduque) |
 | [@kevindubois@mastodon.social](https://mastodon.social/@kevindubois) |
 | [@krisajenkins@mastodon.social](https://mastodon.social/@krisajenkins) |
 | [@linux_mclinuxface@fosstodon.org](https://fosstodon.org/@linux_mclinuxface) |
@@ -51,14 +54,11 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@starbuxman@mastodon.online](https://mastodon.online/@starbuxman) |
 | [@t_mammarella@mastodon.social](https://mastodon.social/@t_mammarella) |
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
-| [@worldofgeese@fosstodon.org](https://fosstodon.org/@worldofgeese) |
 | [@thegrumpyenby@queer.party](https://queer.party/@thegrumpyenby) |
+| [@theyoctojester@fosstodon.org](https://fosstodon.org/web/@theyoctojester) |
+| [@worldofgeese@fosstodon.org](https://fosstodon.org/@worldofgeese) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
-| [@hola_soy_milk@mastodon.online](https://mastodon.online/@hola_soy_milk) |
-| [@julianduque@fosstodon.org](https://fosstodon.org/@julianduque) |
-| [@theyoctojester@fosstodon.org](https://fosstodon.org/web/@theyoctojester) |
-| [@devwithzachary@androiddev.social](https://androiddev.social/@devwithzachary) |
 
 ## Mastodon tips and tricks
 
