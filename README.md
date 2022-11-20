@@ -21,6 +21,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@dramandalmartin@social.linux.pizza](https://social.linux.pizza/@dramandalmartin) |
 | [@dtraub@mastodon.online](https://mastodon.online/@dtraub) |
 | [@eli@hachyderm.io](https://hachyderm.io/@eli) |
+| [@franckpachot@mastodon.social]( https://mastodon.social/@franckpachot) |
 | [@ftisiot@mastodon.social]( https://mastodon.social/@ftisiot) |
 | [@gregholmes@fosstodon.org](https://fosstodon.org/web/@gregholmes) |
 | [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
