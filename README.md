@@ -11,6 +11,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@andypiper@mastodon.social](https://mastodon.social/@andypiper) |
 | [@asm0dey@data-folks.masto.host](https://data-folks.masto.host/@asm0dey) |
 | [@astrojuanlu@social.juanlu.space](https://social.juanlu.space/@astrojuanlu) |
+| [@bitsondatadev@data-folks.masto.host](https://data-folks.masto.host/web/@bitsondatadev) |
 | [@bakarisoul@indieweb.social](https://indieweb.social/@bakarisoul) |
 | [@Cerchie@data-folks.masto.host](https://data-folks.masto.host/web/@Cerchie) |
 | [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
