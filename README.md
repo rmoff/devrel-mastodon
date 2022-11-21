@@ -20,6 +20,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro) |
 | [@don@goodman-wilson.com](https://goodman-wilson.com/@don) |
 | [@dramandalmartin@social.linux.pizza](https://social.linux.pizza/@dramandalmartin) |
+| [@dtauvdiodr@mastodon.art](https://mastodon.art/@dtauvdiodr) |
 | [@dtraub@mastodon.online](https://mastodon.online/@dtraub) |
 | [@eli@hachyderm.io](https://hachyderm.io/@eli) |
 | [@franckpachot@mastodon.social]( https://mastodon.social/@franckpachot) |
