@@ -11,6 +11,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@andypiper@mastodon.social](https://mastodon.social/@andypiper) |
 | [@asm0dey@data-folks.masto.host](https://data-folks.masto.host/@asm0dey) |
 | [@astrojuanlu@social.juanlu.space](https://social.juanlu.space/@astrojuanlu) |
+| [@bakarisoul@indieweb.social](https://indieweb.social/@bakarisoul) |
 | [@Cerchie@data-folks.masto.host](https://data-folks.masto.host/web/@Cerchie) |
 | [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
@@ -48,6 +49,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@metadaddy@fosstodon.org](https://fosstodon.org/@metadaddy) |
 | [@mkheck@mastodon.cloud](https://mastodon.cloud/@mkheck) |
 | [@monimiller@data-folks.masto.host](https://data-folks.masto.host/@monimiller) |
+| [@mribeirodantas@mastodon.social](https://mastodon.social/@mribeirodantas) |
 | [@nickali@mastodon.cloud](https://mastodon.cloud/@nickali) |
 | [@nimbinatus@hachyderm.io](https://hachyderm.io/@nimbinatus) |
 | [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
@@ -65,8 +67,11 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@worldofgeese@fosstodon.org](https://fosstodon.org/@worldofgeese) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
-| [@bakarisoul@indieweb.social](https://indieweb.social/@bakarisoul) |
-| [@mribeirodantas@mastodon.social](https://mastodon.social/@mribeirodantas) |
+
+## Tools to find Twitter users on Mastodon
+
+* https://twitodon.com/
+* https://debirdify.pruvisto.org/
 
 ## Mastodon tips and tricks
 
