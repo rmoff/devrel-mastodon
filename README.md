@@ -22,7 +22,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@dtraub@mastodon.online](https://mastodon.online/@dtraub) |
 | [@eli@hachyderm.io](https://hachyderm.io/@eli) |
 | [@franckpachot@mastodon.social]( https://mastodon.social/@franckpachot) |
-| [@ftisiot@mastodon.social]( https://mastodon.social/@ftisiot) |
+| [@ftisiot@data-folks.masto.host](https://data-folks.masto.host/@ftisiot) |
 | [@gregholmes@fosstodon.org](https://fosstodon.org/web/@gregholmes) |
 | [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
 | [@hamatti@mastodon.world](https://mastodon.world/web/@hamatti) |
