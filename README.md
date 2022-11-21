@@ -12,6 +12,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@asm0dey@data-folks.masto.host](https://data-folks.masto.host/@asm0dey) |
 | [@astrojuanlu@social.juanlu.space](https://social.juanlu.space/@astrojuanlu) |
 | [@bitsondatadev@data-folks.masto.host](https://data-folks.masto.host/web/@bitsondatadev) |
+| [@bakarisoul@indieweb.social](https://indieweb.social/@bakarisoul) |
 | [@Cerchie@data-folks.masto.host](https://data-folks.masto.host/web/@Cerchie) |
 | [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
@@ -21,7 +22,9 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@don@goodman-wilson.com](https://goodman-wilson.com/@don) |
 | [@dramandalmartin@social.linux.pizza](https://social.linux.pizza/@dramandalmartin) |
 | [@dtraub@mastodon.online](https://mastodon.online/@dtraub) |
-| [@ftisiot@mastodon.social]( https://mastodon.social/@ftisiot) |
+| [@eli@hachyderm.io](https://hachyderm.io/@eli) |
+| [@franckpachot@mastodon.social]( https://mastodon.social/@franckpachot) |
+| [@ftisiot@data-folks.masto.host](https://data-folks.masto.host/@ftisiot) |
 | [@gregholmes@fosstodon.org](https://fosstodon.org/web/@gregholmes) |
 | [@gunnarmorling@mastodon.online](https://mastodon.online/@gunnarmorling) |
 | [@hamatti@mastodon.world](https://mastodon.world/web/@hamatti) |
@@ -47,6 +50,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@metadaddy@fosstodon.org](https://fosstodon.org/@metadaddy) |
 | [@mkheck@mastodon.cloud](https://mastodon.cloud/@mkheck) |
 | [@monimiller@data-folks.masto.host](https://data-folks.masto.host/@monimiller) |
+| [@mribeirodantas@mastodon.social](https://mastodon.social/@mribeirodantas) |
 | [@nickali@mastodon.cloud](https://mastodon.cloud/@nickali) |
 | [@nimbinatus@hachyderm.io](https://hachyderm.io/@nimbinatus) |
 | [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
@@ -64,6 +68,11 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@worldofgeese@fosstodon.org](https://fosstodon.org/@worldofgeese) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
+
+## Tools to find Twitter users on Mastodon
+
+* https://twitodon.com/
+* https://debirdify.pruvisto.org/
 
 ## Mastodon tips and tricks
 
