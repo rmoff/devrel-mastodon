@@ -66,6 +66,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
 | [@bakarisoul@indieweb.social](https://indieweb.social/@bakarisoul) |
+| [@mribeirodantas@mastodon.social](https://mastodon.social/@mribeirodantas) |
 
 ## Mastodon tips and tricks
 
