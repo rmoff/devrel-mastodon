@@ -52,7 +52,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@mkheck@mastodon.cloud](https://mastodon.cloud/@mkheck) |
 | [@monimiller@data-folks.masto.host](https://data-folks.masto.host/@monimiller) |
 | [@mribeirodantas@mastodon.social](https://mastodon.social/@mribeirodantas) |
-| [@nickali@mastodon.cloud](https://mastodon.cloud/@nickali) |
+| [@nickali@mastodon.online](https://mastodon.online/@nickali) |
 | [@nimbinatus@hachyderm.io](https://hachyderm.io/@nimbinatus) |
 | [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
 | [@phrawzty@hachyderm.io](https://hachyderm.io/@phrawzty) |
