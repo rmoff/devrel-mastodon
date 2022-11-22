@@ -11,12 +11,14 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@andypiper@mastodon.social](https://mastodon.social/@andypiper) |
 | [@asm0dey@data-folks.masto.host](https://data-folks.masto.host/@asm0dey) |
 | [@astrojuanlu@social.juanlu.space](https://social.juanlu.space/@astrojuanlu) |
-| [@bitsondatadev@data-folks.masto.host](https://data-folks.masto.host/web/@bitsondatadev) |
 | [@bakarisoul@indieweb.social](https://indieweb.social/@bakarisoul) |
+| [@bengamble7@hachyderm.io](https://hachyderm.io/@bengamble7) |
+| [@bitsondatadev@data-folks.masto.host](https://data-folks.masto.host/web/@bitsondatadev) |
 | [@Cerchie@data-folks.masto.host](https://data-folks.masto.host/web/@Cerchie) |
 | [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
 | [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
+| [@damovisa@hachyderm.io](https://hachyderm.io/@damovisa) |
 | [@devwithzachary@androiddev.social](https://androiddev.social/@devwithzachary) |
 | [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro) |
 | [@don@goodman-wilson.com](https://goodman-wilson.com/@don) |
@@ -42,6 +44,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@julianduque@fosstodon.org](https://fosstodon.org/@julianduque) |
 | [@kevindubois@mastodon.social](https://mastodon.social/@kevindubois) |
 | [@krisajenkins@mastodon.social](https://mastodon.social/@krisajenkins) |
+| [@libbymeren@social.linux.pizza](https://social.linux.pizza/@libbymeren) |
 | [@linux_mclinuxface@fosstodon.org](https://fosstodon.org/@linux_mclinuxface) |
 | [@lornajane@indieweb.social](https://indieweb.social/@lornajane) |
 | [@manomarks@queer.party](https://queer.party/web/@manomarks) |
@@ -52,7 +55,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@mkheck@mastodon.cloud](https://mastodon.cloud/@mkheck) |
 | [@monimiller@data-folks.masto.host](https://data-folks.masto.host/@monimiller) |
 | [@mribeirodantas@mastodon.social](https://mastodon.social/@mribeirodantas) |
-| [@nickali@mastodon.cloud](https://mastodon.cloud/@nickali) |
+| [@nickali@mastodon.online](https://mastodon.online/@nickali) |
 | [@nimbinatus@hachyderm.io](https://hachyderm.io/@nimbinatus) |
 | [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
 | [@phrawzty@hachyderm.io](https://hachyderm.io/@phrawzty) |
@@ -61,16 +64,17 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@rmoff@data-folks.masto.host](https://data-folks.masto.host/@rmoff) |
 | [@secondej@phpc.social](https://phpc.social/@secondej) |
 | [@shanacodes@mastodon.social](https://mastodon.social/@shanacodes) |
+| [@sparklingrobots@indieweb.social](https://indieweb.social/@sparklingrobots) |
 | [@starbuxman@mastodon.online](https://mastodon.online/@starbuxman) |
 | [@t_mammarella@mastodon.social](https://mastodon.social/@t_mammarella) |
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@thegrumpyenby@queer.party](https://queer.party/@thegrumpyenby) |
+| [@TheSteve0@data-folks.masto.host](https://data-folks.masto.host/@TheSteve0) |
+| [@TheWebTech@noc.social](https://noc.social/@TheWebTech) |
 | [@theyoctojester@fosstodon.org](https://fosstodon.org/web/@theyoctojester) |
 | [@worldofgeese@fosstodon.org](https://fosstodon.org/@worldofgeese) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
-| [@TheWebTech@noc.social](https://noc.social/@TheWebTech) |
-| [@bengamble7@hachyderm.io](https://hachyderm.io/@bengamble7)|
 
 ## Tools to find Twitter users on Mastodon
 
