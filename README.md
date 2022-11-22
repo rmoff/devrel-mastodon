@@ -13,6 +13,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@astrojuanlu@social.juanlu.space](https://social.juanlu.space/@astrojuanlu) |
 | [@bakarisoul@indieweb.social](https://indieweb.social/@bakarisoul) |
 | [@bengamble7@hachyderm.io](https://hachyderm.io/@bengamble7) |
+| [@blaise@hachyderm.io](https://hachyderm.io/@blaise) |
 | [@bitsondatadev@data-folks.masto.host](https://data-folks.masto.host/web/@bitsondatadev) |
 | [@Cerchie@data-folks.masto.host](https://data-folks.masto.host/web/@Cerchie) |
 | [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
