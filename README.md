@@ -42,6 +42,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@joesepi@fosstodon.org](https://fosstodon.org/@joesepi) |
 | [@jpoehnelt@mastodon.thbps.com](https://mastodon.thbps.com/@jpoehnelt) |
 | [@julianduque@fosstodon.org](https://fosstodon.org/@julianduque) |
+| [@kaesuarez@hachyderm.io](https://hachyderm.io/@kaesuarez) |
 | [@kevindubois@mastodon.social](https://mastodon.social/@kevindubois) |
 | [@krisajenkins@mastodon.social](https://mastodon.social/@krisajenkins) |
 | [@libbymeren@social.linux.pizza](https://social.linux.pizza/@libbymeren) |
