@@ -60,6 +60,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
 | [@phrawzty@hachyderm.io](https://hachyderm.io/@phrawzty) |
 | [@remotesynth@mastodon.xyz](https://mastodon.xyz/@remotesynth) |
+| [@riferrei@hachyderm.io](https://hachyderm.io/@riferrei) |
 | [@RichiH@chaos.social](https://chaos.social/@RichiH) |
 | [@rmoff@data-folks.masto.host](https://data-folks.masto.host/@rmoff) |
 | [@secondej@phpc.social](https://phpc.social/@secondej) |
