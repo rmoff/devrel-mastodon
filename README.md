@@ -67,6 +67,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@t_mammarella@mastodon.social](https://mastodon.social/@t_mammarella) |
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@thegrumpyenby@queer.party](https://queer.party/@thegrumpyenby) |
+| [@TheSteve0@data-folks.masto.host](https://data-folks.masto.host/@TheSteve0) |
 | [@theyoctojester@fosstodon.org](https://fosstodon.org/web/@theyoctojester) |
 | [@worldofgeese@fosstodon.org](https://fosstodon.org/@worldofgeese) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
