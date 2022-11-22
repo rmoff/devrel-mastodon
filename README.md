@@ -11,12 +11,14 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@andypiper@mastodon.social](https://mastodon.social/@andypiper) |
 | [@asm0dey@data-folks.masto.host](https://data-folks.masto.host/@asm0dey) |
 | [@astrojuanlu@social.juanlu.space](https://social.juanlu.space/@astrojuanlu) |
-| [@bitsondatadev@data-folks.masto.host](https://data-folks.masto.host/web/@bitsondatadev) |
 | [@bakarisoul@indieweb.social](https://indieweb.social/@bakarisoul) |
+| [@bengamble7@hachyderm.io](https://hachyderm.io/@bengamble7) |
+| [@bitsondatadev@data-folks.masto.host](https://data-folks.masto.host/web/@bitsondatadev) |
 | [@Cerchie@data-folks.masto.host](https://data-folks.masto.host/web/@Cerchie) |
 | [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
 | [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
+| [@damovisa@hachyderm.io](https://hachyderm.io/@damovisa) |
 | [@devwithzachary@androiddev.social](https://androiddev.social/@devwithzachary) |
 | [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro) |
 | [@don@goodman-wilson.com](https://goodman-wilson.com/@don) |
@@ -68,12 +70,11 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@thegrumpyenby@queer.party](https://queer.party/@thegrumpyenby) |
 | [@TheSteve0@data-folks.masto.host](https://data-folks.masto.host/@TheSteve0) |
+| [@TheWebTech@noc.social](https://noc.social/@TheWebTech) |
 | [@theyoctojester@fosstodon.org](https://fosstodon.org/web/@theyoctojester) |
 | [@worldofgeese@fosstodon.org](https://fosstodon.org/@worldofgeese) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
-| [@bengamble7@hachyderm.io](https://hachyderm.io/@bengamble7) |
-| [@damovisa@hachyderm.io](https://hachyderm.io/@damovisa) |
 
 ## Tools to find Twitter users on Mastodon
 
