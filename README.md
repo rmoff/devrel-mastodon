@@ -42,6 +42,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@julianduque@fosstodon.org](https://fosstodon.org/@julianduque) |
 | [@kevindubois@mastodon.social](https://mastodon.social/@kevindubois) |
 | [@krisajenkins@mastodon.social](https://mastodon.social/@krisajenkins) |
+| [@libbymeren@social.linux.pizza](https://social.linux.pizza/@libbymeren) |
 | [@linux_mclinuxface@fosstodon.org](https://fosstodon.org/@linux_mclinuxface) |
 | [@lornajane@indieweb.social](https://indieweb.social/@lornajane) |
 | [@manomarks@queer.party](https://queer.party/web/@manomarks) |
