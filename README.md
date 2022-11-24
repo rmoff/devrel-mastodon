@@ -69,6 +69,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@shanacodes@mastodon.social](https://mastodon.social/@shanacodes) |
 | [@sparklingrobots@indieweb.social](https://indieweb.social/@sparklingrobots) |
 | [@starbuxman@mastodon.online](https://mastodon.online/@starbuxman) |
+| [@sylwia@mas.to](https://mas.to/@sylwia) |
 | [@t_mammarella@mastodon.social](https://mastodon.social/@t_mammarella) |
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@thegrumpyenby@queer.party](https://queer.party/@thegrumpyenby) |
