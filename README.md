@@ -85,6 +85,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 
 * https://twitodon.com/
 * https://debirdify.pruvisto.org/
+* https://fedifinder.glitch.me/
 
 ## Mastodon tips and tricks
 
