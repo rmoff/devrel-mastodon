@@ -8,7 +8,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 |-|
 | [@adipolak@mastodon.online](https://mastodon.online/@adipolak) |
 | [@amaragraham@mastodon.online](https://mastodon.online/@amaragraham) |
-| [@andypiper@mastodon.social](https://mastodon.social/@andypiper) |
+| [@andypiper@macaw.social](https://macaw.social/@andypiper) |
 | [@asm0dey@data-folks.masto.host](https://data-folks.masto.host/@asm0dey) |
 | [@astrojuanlu@social.juanlu.space](https://social.juanlu.space/@astrojuanlu) |
 | [@bakarisoul@indieweb.social](https://indieweb.social/@bakarisoul) |
@@ -85,6 +85,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 
 * https://twitodon.com/
 * https://debirdify.pruvisto.org/
+* https://fedifinder.glitch.me/
 
 ## Mastodon tips and tricks
 
