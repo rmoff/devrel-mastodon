@@ -13,8 +13,8 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@astrojuanlu@social.juanlu.space](https://social.juanlu.space/@astrojuanlu) |
 | [@bakarisoul@indieweb.social](https://indieweb.social/@bakarisoul) |
 | [@bengamble7@hachyderm.io](https://hachyderm.io/@bengamble7) |
-| [@blaise@hachyderm.io](https://hachyderm.io/@blaise) |
 | [@bitsondatadev@data-folks.masto.host](https://data-folks.masto.host/web/@bitsondatadev) |
+| [@blaise@hachyderm.io](https://hachyderm.io/@blaise) |
 | [@Cerchie@data-folks.masto.host](https://data-folks.masto.host/web/@Cerchie) |
 | [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
@@ -62,8 +62,8 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
 | [@phrawzty@hachyderm.io](https://hachyderm.io/@phrawzty) |
 | [@remotesynth@mastodon.xyz](https://mastodon.xyz/@remotesynth) |
-| [@riferrei@hachyderm.io](https://hachyderm.io/@riferrei) |
 | [@RichiH@chaos.social](https://chaos.social/@RichiH) |
+| [@riferrei@hachyderm.io](https://hachyderm.io/@riferrei) |
 | [@rmoff@data-folks.masto.host](https://data-folks.masto.host/@rmoff) |
 | [@secondej@phpc.social](https://phpc.social/@secondej) |
 | [@shanacodes@mastodon.social](https://mastodon.social/@shanacodes) |
@@ -72,14 +72,15 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@sylwia@mas.to](https://mas.to/@sylwia) |
 | [@t_mammarella@mastodon.social](https://mastodon.social/@t_mammarella) |
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
+| [@thedanicafine@data-folks.masto.host](https://data-folks.masto.host/@thedanicafine) |
 | [@thegrumpyenby@queer.party](https://queer.party/@thegrumpyenby) |
 | [@TheSteve0@data-folks.masto.host](https://data-folks.masto.host/@TheSteve0) |
 | [@TheWebTech@noc.social](https://noc.social/@TheWebTech) |
 | [@theyoctojester@fosstodon.org](https://fosstodon.org/web/@theyoctojester) |
+| [@timspann@hachyderm.io](https://hachyderm.io/@timspann)|
 | [@worldofgeese@fosstodon.org](https://fosstodon.org/@worldofgeese) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
-| [@timspann@hachyderm.io](https://hachyderm.io/@timspann)|
 
 ## Tools to find Twitter users on Mastodon
 
