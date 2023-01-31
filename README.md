@@ -2,10 +2,16 @@
 
 Someone missing? Submit a PR!
 
-You can click on an individual handle to view the profile page, or copy the whole list to a file, save it as a CSV, and import it to Mastodon to follow all the users. 
+You can click on an individual handle to view the profile page, or copy the whole list to a file, save it as a CSV, and import it to Mastodon to follow all the users.
 
 | Handle |
 |-|
+| [@Cerchie@data-folks.masto.host](https://data-folks.masto.host/web/@Cerchie) |
+| [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
+| [@JohannesDienst@mastodon.social](https://mastodon.social/@JohannesDienst) |
+| [@RichiH@chaos.social](https://chaos.social/@RichiH) |
+| [@TheSteve0@data-folks.masto.host](https://data-folks.masto.host/@TheSteve0) |
+| [@TheWebTech@noc.social](https://noc.social/@TheWebTech) |
 | [@adipolak@mastodon.online](https://mastodon.online/@adipolak) |
 | [@amaragraham@mastodon.online](https://mastodon.online/@amaragraham) |
 | [@andypiper@macaw.social](https://macaw.social/@andypiper) |
@@ -15,10 +21,9 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@bengamble7@hachyderm.io](https://hachyderm.io/@bengamble7) |
 | [@bitsondatadev@data-folks.masto.host](https://data-folks.masto.host/web/@bitsondatadev) |
 | [@blaise@hachyderm.io](https://hachyderm.io/@blaise) |
-| [@Cerchie@data-folks.masto.host](https://data-folks.masto.host/web/@Cerchie) |
-| [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
 | [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
+| [@courtneyr_dev@fosstodon.org](https://fosstodon.org/@courtneyr_dev) |
 | [@damovisa@hachyderm.io](https://hachyderm.io/@damovisa) |
 | [@devwithzachary@androiddev.social](https://androiddev.social/@devwithzachary) |
 | [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro) |
@@ -62,7 +67,6 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@noctarius2k@mastodon.online](https://mastodon.online/@noctarius2k) |
 | [@phrawzty@hachyderm.io](https://hachyderm.io/@phrawzty) |
 | [@remotesynth@mastodon.xyz](https://mastodon.xyz/@remotesynth) |
-| [@RichiH@chaos.social](https://chaos.social/@RichiH) |
 | [@riferrei@hachyderm.io](https://hachyderm.io/@riferrei) |
 | [@rmoff@data-folks.masto.host](https://data-folks.masto.host/@rmoff) |
 | [@secondej@phpc.social](https://phpc.social/@secondej) |
@@ -74,15 +78,11 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@thedanicafine@data-folks.masto.host](https://data-folks.masto.host/@thedanicafine) |
 | [@thegrumpyenby@queer.party](https://queer.party/@thegrumpyenby) |
-| [@TheSteve0@data-folks.masto.host](https://data-folks.masto.host/@TheSteve0) |
-| [@TheWebTech@noc.social](https://noc.social/@TheWebTech) |
 | [@theyoctojester@fosstodon.org](https://fosstodon.org/web/@theyoctojester) |
 | [@timspann@hachyderm.io](https://hachyderm.io/@timspann)|
 | [@worldofgeese@fosstodon.org](https://fosstodon.org/@worldofgeese) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
-| [@courtneyr_dev@fosstodon.org](https://fosstodon.org/@courtneyr_dev) |
-| [@JohannesDienst@mastodon.social](https://mastodon.social/@JohannesDienst) |
 
 ## Tools to find Twitter users on Mastodon
 
