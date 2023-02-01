@@ -2,7 +2,7 @@
 
 Someone missing? Submit a PR!
 
-You can click on an individual handle to view the profile page, or copy the whole list to a file, save it as a CSV, and import it to Mastodon to follow all the users. 
+You can click on an individual handle to view the profile page, or copy the whole list to a file, save it as a CSV, and import it to Mastodon to follow all the users.
 
 | Handle |
 |-|
@@ -19,6 +19,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@ChrisShort@hachyderm.io](https://hachyderm.io/@ChrisShort) |
 | [@christianh814@hachyderm.io](https://hachyderm.io/@christianh814) |
 | [@chuckmeyer@mastodon.social](https://mastodon.social/@xeraa) |
+| [@courtneyr_dev@fosstodon.org](https://fosstodon.org/@courtneyr_dev) |
 | [@damovisa@hachyderm.io](https://hachyderm.io/@damovisa) |
 | [@devwithzachary@androiddev.social](https://androiddev.social/@devwithzachary) |
 | [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro) |
@@ -41,6 +42,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@jerdog@floss.social]( https://floss.social/@jerdog) |
 | [@jjasghar@mastodon.social](https://mastodon.social/@jjasghar) |
 | [@joesepi@fosstodon.org](https://fosstodon.org/@joesepi) |
+| [@JohannesDienst@mastodon.social](https://mastodon.social/@JohannesDienst) |
 | [@jpoehnelt@mastodon.thbps.com](https://mastodon.thbps.com/@jpoehnelt) |
 | [@julianduque@fosstodon.org](https://fosstodon.org/@julianduque) |
 | [@kaesuarez@hachyderm.io](https://hachyderm.io/@kaesuarez) |
@@ -81,8 +83,6 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@worldofgeese@fosstodon.org](https://fosstodon.org/@worldofgeese) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
-| [@courtneyr_dev@fosstodon.org](https://fosstodon.org/@courtneyr_dev) |
-| [@JohannesDienst@mastodon.social](https://mastodon.social/@JohannesDienst) |
 
 ## Tools to find Twitter users on Mastodon
 
