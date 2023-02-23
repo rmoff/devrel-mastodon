@@ -83,6 +83,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@worldofgeese@fosstodon.org](https://fosstodon.org/@worldofgeese) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
+| [@rob@robearlam.com](https://mastodon.social/@RobEarlam) |
 
 ## Tools to find Twitter users on Mastodon
 
